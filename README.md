@@ -20,3 +20,9 @@ An end-to-end data analytics project that simulates the work of a Data Analyst a
 - Faker
 - Power BI
 - Git and GitHub
+
+## Database Design
+
+The Kraly analytics platform uses a relational PostgreSQL database designed to capture customer subscriptions, product usage, project activity, support interactions, and billing data.
+
+![Kraly Entity Relationship Diagram](images/er_diagram.png)
