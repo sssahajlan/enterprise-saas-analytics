@@ -1,0 +1,10 @@
+# Generated synthetic datasets
+data/generated/
+
+# Python
+__pycache__/
+*.pyc
+
+# Environment variables / secrets
+.env
+.env.*
