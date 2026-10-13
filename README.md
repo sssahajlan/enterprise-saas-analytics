@@ -2,7 +2,7 @@
 
 An end-to-end data analytics project that simulates the work of a Data Analyst at a B2B SaaS company.
 
-**Status:** In Progress — database design, synthetic data generation, ETL, and SQL analysis are implemented; Power BI dashboards and final reporting are still in development.
+**Status:** In Progress - database design, synthetic data generation, ETL, and SQL analysis are implemented; Power BI dashboards and final reporting are still in development.
 
 ## Project Goals
 
